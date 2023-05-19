@@ -1,4 +1,4 @@
-from Clases import LinkedList, Registro, Animal
+from Clases import Registro, Animal
 from datetime import datetime
 
 
